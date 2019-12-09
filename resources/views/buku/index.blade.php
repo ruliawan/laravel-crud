@@ -1,7 +1,7 @@
 @extends('app')
 
 @section('title')
-    Siswa | Index
+    Siswa | Daftar
 @endsection
 
 @section('content')
