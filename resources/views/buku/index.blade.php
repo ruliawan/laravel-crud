@@ -1,8 +1,9 @@
 @extends('app')
 
 @section('title')
-    Siswa | Daftar
-    ssss
+
+
+    Siswa | Index
 @endsection
 
 @section('content')
