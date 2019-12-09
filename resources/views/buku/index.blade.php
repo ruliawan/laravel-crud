@@ -2,6 +2,7 @@
 
 @section('title')
     Siswa | Daftar
+    ssss
 @endsection
 
 @section('content')
